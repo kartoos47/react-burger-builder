@@ -1,3 +1,11 @@
+A full stack burger-builder app using react-redux for the user interface and firebase on the backend.
+
+# Live Demo
+
+Link:
+
+https://react-my-burger-builder-3927f.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
